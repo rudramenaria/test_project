@@ -1,6 +1,10 @@
 # test_project
 
-A new Flutter project.
+A Flutter task test project.
+
+Built on Flutter Version 2.10.3.
+
+Mainly userd dio for api call, Provider for state management and Shared Preferences for local storage.
 
 ## Getting Started
 
